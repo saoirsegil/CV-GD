@@ -43,7 +43,7 @@ header {
 .me img {
   background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;
-  height: aito;
+  height: auto;
   position: absolute;
   left: calc(50% - 11rem);
   transform: translatex(0);
