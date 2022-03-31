@@ -72,7 +72,7 @@ const Service = () => {
         {/* End of presention */}
         <article className="service">
           <div className="service__head">
-            <h3>Grapic Art</h3>
+            <h3>Graphic Art</h3>
           </div>
           <ul className="service__list">
             <li>
