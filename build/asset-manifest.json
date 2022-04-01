@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07c4493b.css",
+    "main.js": "/static/js/main.1899d955.js",
+    "static/media/Strive-Poster.jpg": "/static/media/Strive-Poster.8c521ca973dd9038665e.jpg",
+    "static/media/Tri-fold.jpg": "/static/media/Tri-fold.e36ac5fe192193fd0052.jpg",
+    "static/media/Wellness-Coach.jpg": "/static/media/Wellness-Coach.3cfcefb8f609ccc3672d.jpg",
+    "static/media/texture-background-png-21.png": "/static/media/texture-background-png-21.e050a7e228a7d3d28769.png",
+    "static/media/avtr44.jpg": "/static/media/avtr44.cdb298fe81f2cf1376b1.jpg",
+    "static/media/Ultimate-Celebration.jpg": "/static/media/Ultimate-Celebration.1f286c5067576153e2a7.jpg",
+    "static/media/Me.png": "/static/media/Me.b1fb1fde39ae490cc6a7.png",
+    "static/media/Small-Kitchen-Menu.jpg": "/static/media/Small-Kitchen-Menu.99ded57573a0281ad218.jpg",
+    "static/media/avtr55.jpg": "/static/media/avtr55.18ced660730c4ba42e98.jpg",
+    "static/media/Small-Kitchen.jpg": "/static/media/Small-Kitchen.2a41cf56b17507a5f1e4.jpg",
+    "static/media/avtr22.jpg": "/static/media/avtr22.acd78d413f2e4426a577.jpg",
+    "static/media/RESUME.pdf": "/static/media/RESUME.740650b3ac9ad85740fe.pdf",
+    "static/media/About-Me.jpg": "/static/media/About-Me.94e15ad0f876ca60b42d.jpg",
+    "static/media/avtr33.jpg": "/static/media/avtr33.d8fd5955d9368deed744.jpg",
+    "static/media/avtr11.jpg": "/static/media/avtr11.f70a03c8ff84f2e17fbc.jpg",
+    "index.html": "/index.html",
+    "main.07c4493b.css.map": "/static/css/main.07c4493b.css.map",
+    "main.1899d955.js.map": "/static/js/main.1899d955.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07c4493b.css",
+    "static/js/main.1899d955.js"
+  ]
+}
