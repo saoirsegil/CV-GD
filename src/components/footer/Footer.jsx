@@ -30,11 +30,11 @@ const Footer = () => {
         </li>
         <li>
           {' '}
-          <a href="#portfolio">Portfolio</a>{' '}
+          <a href="#Portfolio">Portfolio</a>{' '}
         </li>
         <li>
           {' '}
-          <a href="#testimonials">Testimonials</a>{' '}
+          <a href="#Testimonials">Testimonials</a>{' '}
         </li>
         <li>
           {' '}
@@ -43,13 +43,25 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.facebook.com/jdesignsolutions">
+        <a
+          href="https://www.facebook.com/jdesignsolutions"
+          target="_blank"
+          rel="noreferrer"
+        >
           <FaFacebookF />
         </a>
-        <a href="https://www.linkedin.com/in/jayson-diaz-272729186/">
+        <a
+          href="https://www.linkedin.com/in/jayson-diaz-272729186/"
+          target="_blank"
+          rel="noreferrer"
+        >
           <FaLinkedinIn />
         </a>
-        <a href="https://www.behance.net/jdesignsolutions">
+        <a
+          href="https://www.behance.net/jdesignsolutions"
+          target="_blank"
+          rel="noreferrer"
+        >
           <FaBehance />
         </a>
       </div>
